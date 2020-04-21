@@ -2,11 +2,11 @@
 using tabuleiro;
 
 namespace xadrez {
-    class PosicaoXadre {
+    class PosicaoXadrez {
         public char coluna { get; set; }
         public int linha { get; set; }
 
-        public PosicaoXadre (char coluna, int linha) {
+        public PosicaoXadrez (char coluna, int linha) {
             this.coluna = coluna;
             this.linha = linha;
 
