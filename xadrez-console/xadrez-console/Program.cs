@@ -2,6 +2,8 @@
 using tabuleiro;
 using xadrez;
 namespace xadrez_console {
+
+    //Iniciando programa
     class Program {
         static void Main(string[] args) {
             try {
